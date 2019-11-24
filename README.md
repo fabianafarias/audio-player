@@ -1,5 +1,7 @@
 #Aplicação desenvolvida em aula com o professor Mayk Brito da Rocketseat.
+
 #Link da vídeo aula: https://www.youtube.com/watch?v=vqrjFnq3-uo
+
 #Link do repositório da aula: https://www.youtube.com/redirect?redir_token=KGPioWakrtfsip062XmY_Invee18MTU3NDcyMDU4OUAxNTc0NjM0MTg5&q=https%3A%2F%2Fgithub.com%2FRocketseat%2Fyoutube-html-js-audio-player&v=vqrjFnq3-uo&event=video_description
 
 
