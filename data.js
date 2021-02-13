@@ -7,7 +7,7 @@ window.audios = [
       file: "indigo-night.mp3"
     },
     {
-      title: "Love Remains",
+      title: "Killing Me",
       artist: "Tal Wilkenfeld",
       cover: "Tal-Love-Remains.jpg",
       file: "killing-me.mp3"
