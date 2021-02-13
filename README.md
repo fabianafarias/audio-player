@@ -1,6 +1,6 @@
-# Working with HTML Audio and JavaScript
+## Working with HTML Audio and JavaScript
 
-## My audio player
+### My audio player
 
  - [x] Start the layout (HTML and CSS).
  - [x] Create the audio player.
