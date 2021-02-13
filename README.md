@@ -1,23 +1,13 @@
-# Trabalhando com HTML Audio e JavaScript
+# Working with HTML Audio and JavaScript
 
-## RocketCast
+## My audio player
 
-
-### Easy
-
- - [x] Iniciar a estrutura do layout (HTML e CSS).
- - [x] Criar o player de audio
- - [x] Fazer o player tocar automaticamente quando a janela abrir
- Ok, me arrependi, o player tocando automaticamente é horrível. Remova esta opção de autoplay.
- - [x] Alimentar o player com os dados de audio
-
-### Moderate
-
- - [x] Refatorar: Criar um objeto para guardar o estado, funcionalidades e configurações do player
- - [x] Quando o audio finalizar, iniciar o próximo da lista
- - [x] Quando chegar no último audio, voltar a reproduzir o primeiro.
-
-### Hard
-
- - [x] Iniciar a customização visual do player
- - [x] Adicionar funcionalidade para os botões (Play/Pause, Volume, Mute e Seekbar)
+ - [x] Start the layout (HTML and CSS).
+ - [x] Create the audio player.
+ - [x] Make the player plays automatically when the window open.
+ - [x] Feed the player with the data audio.
+ - [x] Refactor: Create an object to save the state, funcionalities and configurations of player.
+ - [x] When the audio ends, start the next track.
+ - [x] When gets to the last audio, back to the first.
+ - [x] Start the visual costumization of the player.
+ - [x] Add funcionalities to the buttons (Play/Pause, Volume, Mute e Seekbar).
