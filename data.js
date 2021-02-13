@@ -15,7 +15,7 @@ window.audios = [
     {
       title: "Joy Joy",
       artist: "Kinga Glyk",
-      cover: "Kinga-Feelings.jpg",
+      cover: "Kinga-Feelings.jpeg",
       file: "joy-joy.mp3"
     }
   ];
